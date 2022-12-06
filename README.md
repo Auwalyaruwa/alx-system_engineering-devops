@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell basis project
+shell I/O redirections
